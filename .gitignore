@@ -1,0 +1,15 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+:memory:.ses
+models/
+*.wav
+*.png
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
